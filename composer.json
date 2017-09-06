@@ -24,13 +24,13 @@
         "zendframework/zend-modulemanager": "^2.7 || ^3.0",
         "zendframework/zend-eventmanager": "^3.0",
         "zendframework/zend-servicemanager": "^3.0",
-        "doctrine/data-fixtures": "1.1.*"
+        "doctrine/data-fixtures": "1.1.*",
+        "doctrine/annotations": "1.3.x"
     },
     "require-dev": {
         "phpunit/phpunit" : "^5.4",
         "squizlabs/php_codesniffer": "*",
         "doctrine/doctrine-orm-module": "^0.10 || ^1.0",
-        "doctrine/annotations": "1.3.1",
         "zendframework/zendframework": "^3.0"   
     },
     "autoload": {
